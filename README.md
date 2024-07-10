@@ -28,7 +28,7 @@ cd install/rknn_MIDASDepth_demo_Linux
 
 注意：修改模型、测试图像、保存图像的路径，修改文件为src下的main.cc
 
-```
+```C++
 
 int main(int argc, char **argv)
 {

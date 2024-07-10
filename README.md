@@ -4,7 +4,7 @@ MiDaS（Multiple Depth Estimation Accuracy with Single Network）单目深度估
 
 模型转换和仿真测试参考 [onnx转rknn](https://blog.csdn.net/zhangqian_1/article/details/140291694)。
 
-[模型文件](https://github.com/cqu20160901/MiDaS_DepthEstimation_rknn_Cplusplus/releases/tag/V1.0)
+由于模型文件比较大，无法和代码一起上传。[rknn模型文件](https://github.com/cqu20160901/MiDaS_DepthEstimation_rknn_Cplusplus/releases/tag/V1.0)
 
 ## 编译和运行
 

@@ -45,3 +45,10 @@ int main(int argc, char **argv)
 ![image](https://github.com/cqu20160901/MiDaS_DepthEstimation_rknn_Cplusplus/blob/main/examples/rknn_MiDaSDepth/test.jpg)
 ![image](https://github.com/cqu20160901/MiDaS_DepthEstimation_rknn_Cplusplus/blob/main/examples/rknn_MiDaSDepth/test_result.jpg)
 
+
+板端时耗也贴出供参考：模型midas_v21_384，模型输入分辨率384x224, rk3588芯片。
+
+![image](https://github.com/cqu20160901/MiDaS_DepthEstimation_rknn_Cplusplus/assets/22290931/708be928-4f21-4b43-9145-5986c9acd4dd)
+
+
+
